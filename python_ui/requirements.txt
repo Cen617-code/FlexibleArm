@@ -1,0 +1,2 @@
+# GUI 仅依赖标准库 tkinter；如需运行
+# MATLAB Engine，请在 MATLAB 安装目录下执行 python setup.py install
